@@ -10,16 +10,16 @@ Wilmington, DE
 
 ### Objective
 I seek entry-level employment in Information Technology, where excellent analytical problem-solving skills and a strong work ethic can add value to an organization.
-Education and Certifications
-Tech Impact ITWorks – Wilmington, DE    Mar 2021 – July 2021
-250+ hours of technical training
-100+ hours of corporate-level professional development training
-CompTIA A+ certification    (in progress)
-Cisco IT Essentials: PC Hardware and Software certification    
 
-Penn Foster – Scranton, PA    Aug 2014
+### Education and Certifications
+* Tech Impact ITWorks – Wilmington, DE    Mar 2021 – July 2021
+	* 250+ hours of technical training
+	* 100+ hours of corporate-level professional development training
+	* CompTIA A+ certification    (in progress)
+	* Cisco IT Essentials: PC Hardware and Software certification    
+* Penn Foster – Scranton, PA    Aug 2014
 
-Work Experience
+### Work Experience
 
 University Of Delaware – Newark, Delaware                                                                       May 2021- present
 Information Technology Specialist

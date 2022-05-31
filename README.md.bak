@@ -3,11 +3,12 @@
 Wilmington, DE
 
 ## Contact Information
-* Solomonhill0620@gmail.com | +1 (302) 669-8811
-* www.linkedin.com/in/solomon-hill
+* Email - Solomonhill0620@gmail.com
+* Phone - +1 (302) 669-8811
+* LinkedIn - www.linkedin.com/in/solomon-hill
 
 
-Objective
+### Objective
 I seek entry-level employment in Information Technology, where excellent analytical problem-solving skills and a strong work ethic can add value to an organization.
 Education and Certifications
 Tech Impact ITWorks – Wilmington, DE    Mar 2021 – July 2021
