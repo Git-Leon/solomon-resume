@@ -1,4 +1,4 @@
-Solomon Hill
+# Solomon Hill
 112 North Dupont St. 
 Wilmington, DE
 Solomonhill0620@gmail.com | +1 (302) 669-8811
